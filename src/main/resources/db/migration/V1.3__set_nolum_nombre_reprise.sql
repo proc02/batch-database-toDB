@@ -1,0 +1,2 @@
+UPDATE REPRISE
+SET nbrReprise = 0; 
